@@ -10,3 +10,7 @@ int main(){
     cout << "The factorial of "<< n <<" is "<< fact<< endl;
     return 0;
 }
+
+/* Output :
+enter a number : 5
+The factorial of 5 is 120 */
