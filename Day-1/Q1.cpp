@@ -11,3 +11,6 @@ int main(){
     return 0;
 
 }
+/*ouput :
+enter a number 10
+the sum is 55*/
