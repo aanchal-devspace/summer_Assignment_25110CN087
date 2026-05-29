@@ -15,3 +15,6 @@ int main(){
 
     return 0;
 }
+/*ouput:
+Enter a number : 123654
+The digit in 123654 is 6 */
