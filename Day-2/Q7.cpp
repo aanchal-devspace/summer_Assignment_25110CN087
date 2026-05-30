@@ -13,3 +13,8 @@ int main(){
     cout << "The product of "<< n1<<" is "<< p<<endl;
     return 0;
 }
+
+/* Output: 
+Enter a number : 25 
+The product of 25 is 10
+*/

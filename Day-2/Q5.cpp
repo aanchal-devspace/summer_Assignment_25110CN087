@@ -14,3 +14,7 @@ int main (){
     cout <<"The sum of all digits of "<<n1 << " is " <<sum;
     return 0;
 }
+
+/*Output : 
+Enter the number : 256
+The sum of all digits of 256 is 13 */

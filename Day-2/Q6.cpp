@@ -14,3 +14,8 @@ int main(){
     cout << "The reverse of "<<n1<<" is "<<rev<<endl;
     return 0;
 }
+
+/* Output : 
+Enter a number : 369
+The reverse of 369 is 963
+*/

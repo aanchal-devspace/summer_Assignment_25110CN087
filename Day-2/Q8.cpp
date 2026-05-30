@@ -20,3 +20,10 @@ int main(){
     }
     return 0;
 }
+
+/* Output : 
+Enter a number : 253
+ Number is not palindrome 
+
+ Enter a number : 2552
+The number is palindrome  */
