@@ -24,3 +24,14 @@ int main(){
     return 0;
 }
 
+/* 
+Output : 
+Enter number of rows for pattern : 7
+       A 
+      B B 
+     C C C 
+    D D D D 
+   E E E E E 
+  F F F F F F 
+ G G G G G G G 
+ */

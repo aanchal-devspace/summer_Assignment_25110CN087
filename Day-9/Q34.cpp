@@ -18,3 +18,13 @@ int main(){
     }
     return 0;
 }
+
+/*
+Output : 
+Enter number of rows : 5
+1 2 3 4 5 
+ 2 3 4 5 
+  3 4 5 
+   4 5 
+    5 
+*/
