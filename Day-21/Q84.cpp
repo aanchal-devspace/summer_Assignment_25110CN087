@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
     char str[50];
-    cout<<"Enter the word : ";
+    cout<<"Enter the word : "<<endl;
     cin.getline(str,50);
     for(int i=0;str[i]!='\0';i++){
         if(str[i]>'a'&&str[i]<'z')
@@ -13,3 +13,10 @@ int main(){
     cout<<str;
     return 0;
 }
+
+/*
+Output :
+Enter the word :
+string
+STRING
+*/

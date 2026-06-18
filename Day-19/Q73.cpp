@@ -27,3 +27,11 @@ int main(){
     }
     return 0;
 }
+
+/*
+Output :
+Enter number of rows and columns of matrix : 2 2
+Enter elements of matrix 1 and matrix 2 : 1 4 7 8
+2 5 8 6
+The sum of two matrices is : 5 15 7 14 
+*/
