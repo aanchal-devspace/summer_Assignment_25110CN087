@@ -40,7 +40,7 @@ int main(){
                 cin>>num1;
                 cin.ignore();
                 if(num1 <1 || num1>10){
-                    cout<<"Seats not available "<<endl;
+                    cout<<"Seats 3not available "<<endl;
                 }
                 else{
                     if(t[num1-1].booked){
