@@ -1,4 +1,4 @@
-//Q107 Write a program to Create salary management system
+//Q119 Write a program to Create mini employee management system
 
 #include<bits/stdc++.h>
 using namespace std;
