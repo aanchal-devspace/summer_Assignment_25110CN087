@@ -242,7 +242,7 @@ int main()
 
     do
     {
-        cout << "\n\n------- SMART ATTENDANCE SYSTEM -------\n";
+        cout << "\n\n------ SMART ATTENDANCE SYSTEM ------\n";
         cout << "1. Add Student\n"<<"2. View Students\n"<< "3. Search Student\n"<< "4. Edit Student\n";
         cout << "5. Mark Attendance\n"<< "6. Attendance Report\n"<< "7. Students Below 75%\n"<< "8. Delete Student\n";
         cout << "9. Exit\n";
