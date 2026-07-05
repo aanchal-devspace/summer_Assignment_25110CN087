@@ -1,4 +1,5 @@
 # summer_Assignment_25110CN087
+This readme contains all the questions of the assignment along with thier respective days.
 
 | Day | Question No. | Problem Statement |
 | :--- | :--- | :--- |
@@ -122,3 +123,35 @@
 | | Q118 | Write a program to Create mini library system. |
 | | Q119 | Write a program to Create mini employee management system. |
 | | Q120 | Write a program to Develop complete mini project using arrays, strings and functions. |
+
+Q.120 Smart Attendance System
+
+Description
+
+The Smart Attendance System is a menu-driven C++ application developed using structures, functions, and binary file handling. It helps manage student attendance records efficiently by allowing users to add, update, search, and maintain attendance data.
+
+Features
+
+- Add Student
+- View Student Records
+- Search Student by Roll Number
+- Edit Student Details
+- Mark Attendance
+- Generate Attendance Report
+- Display Students Below 75% Attendance
+- Delete Student Record
+- Store Data Using Binary File Handling
+
+Technologies Used
+
+- C++
+- Structures
+- Functions
+- Arrays
+- Binary File Handling
+- VS Code
+
+File Used
+
+- "attendance.dat" – Stores all student attendance records.
+
